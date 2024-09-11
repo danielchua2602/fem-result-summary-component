@@ -17,6 +17,5 @@ Mobile:
 ![image](https://github.com/user-attachments/assets/2fad199b-62db-4dea-b4ec-21c78dbed66e)
 
 
-<br>
-<br>
-With reference to [Kevin Powell Youtube](https://www.youtube.com/watch?v=wEujWuPQU0U).
+
+With reference to [Kevin Powell Youtube](https://www.youtube.com/watch?v=wEujWuPQU0U)
