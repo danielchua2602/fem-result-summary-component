@@ -1,6 +1,6 @@
 # fem-result-summary-component
 
-This is a Frontend Mentor Challenge.
+This is a Frontend Mentor Challenge to practice and improve my foundations of HTML, CSS and JS.
 
 https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
 
